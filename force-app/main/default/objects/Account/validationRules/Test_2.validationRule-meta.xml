@@ -2,6 +2,7 @@
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Test_2</fullName>
     <active>true</active>
-    <errorConditionFormula>true</errorConditionFormula>
+    <description>hello</description>
+    <errorConditionFormula>false</errorConditionFormula>
     <errorMessage>test</errorMessage>
 </ValidationRule>
